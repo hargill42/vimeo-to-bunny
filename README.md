@@ -15,6 +15,8 @@ Then run the script from commandline.
 
 ## Requirements
 
-* Python 3
-* Python `Requests` Package
-* Python `OS` Package
+* Python 3.x
+* Python `PyVimeo` Package
+* Python `requests` Package
+* Python `os` Package
+* Python `json`
