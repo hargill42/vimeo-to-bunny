@@ -7,7 +7,7 @@ The script is python based.
 Open `bridge.py` in your code editor and replace following variables.
 
 * `VIMEO_API_KEY`
-* `BUNNY_STORAGE_RW_API`
+* `BUNNY_STREAM_RW_API`
 
 Then run the script from commandline.
 
